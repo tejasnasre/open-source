@@ -72,3 +72,12 @@ This project is open source and available under the MIT License.
 ## Acknowledgments
 
 Thank you for your interest in contributing to this project!
+
+
+prompt sample : 
+
+hey claude make a portfolio website in html and css and js make it single page with black color and white use of react and next js is not allowed. 
+
+add my profile , intro , college , achievement, projects and much more which developer has  in his profile make it end to end workable and add fonts and much more make it responsive and colorful 
+
+generate end to end prompt to make this project my name is tejas nasre
